@@ -5,7 +5,7 @@
 This program does not use any dependencies, but makes use of the object oriented programming paradigm  
 in Java.
 
-## _Compilation and running of program [by the terminal]_
+## Compilation and running of program [by the terminal]
 
 1. Open your terminal [can be of any type, bash, powershell, zshell etc].
 1. Navigate to the root directory **"java-assignment-five"**.
@@ -25,7 +25,7 @@ java Main
 
 ```
 
-## _Compilation and running of program [by an IDE]_
+## Compilation and running of program [by an IDE]
 
 1. Open the IDE of your choice [can be VS Code, Visual Studio, Eclipse, Intellij IDEA and others].
 1. Open root directory **"java-assignment-five"**.
